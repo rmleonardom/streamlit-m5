@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('Adolfo Centeno Tellez')
-st.header('App demo de Streamlit')
-st.write('hola mundo de streamlit usando codespaces de github')
+st.title('Leonardo Miguel Ramos Morán - Cambio directo en Producción')
+st.header('LR: App demo de Streamlit')
+st.write('LR: hola mundo de streamlit usando codespaces de github')
